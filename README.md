@@ -1,1 +1,1 @@
-# kutuphane_otomasyon_sistemi
+# kulüp_otomasyon_sistemi
