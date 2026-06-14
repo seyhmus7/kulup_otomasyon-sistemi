@@ -1,1 +1,1 @@
-# k-t-phane_otomasyon_sistemi
+# kutuphane_otomasyon_sistemi
